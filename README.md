@@ -5,8 +5,8 @@ You can access the project here => https://letmeask-projetinho-8b982.web.app
 # Tecnologies
 This project was created utilizing:
 
-React
-Typescript
+React\
+Typescript\
 Firebase
 
 # The Project:
