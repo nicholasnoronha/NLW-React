@@ -1,6 +1,18 @@
-# Getting Started with Create React App
+You can access the project here => https://letmeask-projetinho-8b982.web.app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## <img src="https://github.com/nicholasnoronha/NLW-React/blob/master/img/front-page.png">
+
+# Tecnologies
+This project was created utilizing:
+
+React
+Typescript
+Firebase
+
+# The Project:
+
+This project was made during the NLW(Next Level Week) event hosted by Rocketseat. On the website and after creating a room, you can share it with your audience and answer your audience questions easily.
+
 
 ## Available Scripts
 
